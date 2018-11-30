@@ -1,0 +1,28 @@
+html {
+    font-size: 62.5%;
+    font-family: 'system-ui', 'sans-serif';
+    line-height: 1.4;
+    text-align: justify;
+}
+
+body {
+    margin: 0 10px;
+}
+
+h1 {
+    font-size: 3.2rem;
+}
+
+p {
+    font-size: 2.1rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    font-size: 2.1rem;
+    padding: 0;
+    list-style: none;
+}
