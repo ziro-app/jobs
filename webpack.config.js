@@ -30,7 +30,8 @@ module.exports = (env, { mode }) => {
 		plugins: [ new HtmlWebpackPlugin({ template: './src/index.html' }) ]
 	}
 	if (mode === 'development') {
-		config.devtool = 'cheap-module-eval-source-map'
+		config.devtool = 'cheap-module-eval-source-map',
+		config.devServer = { historyApiFallback: true }
 	}
 	if (mode === 'production') {
 		config.devtool = 'cheap-module-source-map'
