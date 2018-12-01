@@ -1,4 +1,5 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin')
+const CopyWebpackPlugin = require('copy-webpack-plugin')
 
 module.exports = (env, { mode }) => {
 	const config = {
@@ -16,7 +17,8 @@ module.exports = (env, { mode }) => {
 							],
 							plugins: [
 								'@babel/plugin-transform-runtime',
-								'@babel/plugin-proposal-class-properties'
+								'@babel/plugin-proposal-class-properties',
+								'@babel/plugin-syntax-dynamic-import'
 							]
 						}
 					}
@@ -35,6 +37,9 @@ module.exports = (env, { mode }) => {
 	}
 	if (mode === 'production') {
 		config.devtool = 'cheap-module-source-map'
+		config.plugins.push(
+			new CopyWebpackPlugin([{ from: './src/admin', to: 'admin', toType: 'dir' }]),
+		)
 	}
 	return config
 }
