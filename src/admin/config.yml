@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: ziro-app/jobs
 
 media_folder: media_folder
 
