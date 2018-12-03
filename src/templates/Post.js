@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
-const Post = ({ data }) => {
+export default function Post({ data, }) {
 	const { markdownRemark } = data
 	const { frontmatter, html } = markdownRemark
 	return (
@@ -27,5 +27,3 @@ export const pageQuery = graphql`
  	}
  }
 `
-
-export default Post
