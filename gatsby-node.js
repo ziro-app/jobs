@@ -1,12 +1,12 @@
 const path = require('path')
 
 exports.createPages = ({ actions, graphql }) => {
-	const { createPate } = actions
+	const { createPage } = actions
 	const blogPostTemplate = path.resolve('src/templates/Blog.js')
 	return graphql(`
 		{
 			allMarkdownRemark(
-				sort: { order: DESC, fields: [frontmatter__date] }
+				sort: { order: DESC, fields: [frontmatter___date] }
 				limit: 1000
 			) {
 				edges {
