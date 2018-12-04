@@ -1,13 +1,13 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import { Markup } from 'interweave'
+import Parser from 'react-html-parser'
 
 const Post = ({ data: { markdownRemark: { frontmatter: { date, path, title }, html } } }) =>
 	<div>
 		<div>
 			<h1>{title}</h1>
 			<h2>{date}</h2>
-			<Markup content={html} />
+			{Parser(html)}
 		</div>
 	</div>
 
