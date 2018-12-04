@@ -1,19 +1,15 @@
 import React from 'react'
 import { graphql } from 'gatsby'
+import { Markup } from 'interweave'
 
-export default function Post({ data, }) {
-	const { markdownRemark } = data
-	const { frontmatter, html } = markdownRemark
-	return (
-		<div className='blog-post-container'>
-			<div className='blog-post'>
-				<h1>{frontmatter.title}</h1>
-				<h2>{frontmatter.date}</h2>
-				<div className='blog-post-content' dangerouslySetInnerHtml={{ __html: html }} />
-			</div>
+const Post = ({ data: { markdownRemark: { frontmatter: { date, path, title }, html } } }) =>
+	<div>
+		<div>
+			<h1>{title}</h1>
+			<h2>{date}</h2>
+			<Markup content={html} />
 		</div>
-	)
-}
+	</div>
 
 export const pageQuery = graphql`
  query($path: String!) {
@@ -27,3 +23,5 @@ export const pageQuery = graphql`
  	}
  }
 `
+
+export default Post
