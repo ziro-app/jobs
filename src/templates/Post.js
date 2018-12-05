@@ -1,12 +1,13 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import Parser from 'react-html-parser'
+import { container, header } from '../styles/post-styles'
 
 const Post = ({ data: { markdownRemark: { frontmatter: { date, path, title }, html } } }) =>
-	<div>
+	<div style={container}>
 		<div>
-			<h1>{title}</h1>
-			<h2>{date}</h2>
+			<h1 style={header}>{title}</h1>
+			<span>{date}</span>
 			{Parser(html)}
 		</div>
 	</div>

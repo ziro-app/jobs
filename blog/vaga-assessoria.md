@@ -3,29 +3,28 @@ path: /assessoria
 date: 2018-12-05T01:54:35.284Z
 title: Vaga Assessoria
 ---
-### Da empresa
+## Empresa
 
 A Ziro é uma startup de intermediação em compras no atacado, com escritório localizado no Bom Retiro, SP. Nosso papel é assessorar lojistas de todo o país que desejem abastecer seus estoques de roupas comprando dos fabricantes do bairro. 
 
 Entenda mais sobre nosso modelo de negócio [acessando aqui](https://bit.ly/2Bs6SjE).
 
-### Do assessor
+## Assessor
 
 A principal responsabilidade do assessor é atender o lojista e ajudá-lo a escolher, entre os fabricantes do bairro, quais possuem produtos que mais se adequam às suas necessidades de revenda.
 
 O assessor atende o lojista presencialmente ou via whatsapp e o acompanha em todo o processo de compras, desde a escolha de peças, passando pelo pagamento e retirada da mercadoria, até o despacho e recebimento no endereço escolhido, recebendo o apoio da nossa área de logística nas etapas pertinentes.
 
-### Da remuneração
+## Remuneração
 
-O assessor recebe um fixo e uma comissão pelos atendimentos prestados no mês.
+O assessor recebe um fixo, uma comissão e um bônus.
+* Fixo: R$1500,00.
+* Comissão: 10% sobre vendas de clientes atuais.
+* Bônus: 40% sobre vendas de clientes novos.
 
--Fixo: R$1500,00
+A remuneração esperada é de R$4500,00 ou mais. [Mais detalhes aqui](https://bit.ly/2UgKIbF).
 
--Comissão: 10% sobre vendas de clientes atuais e 40% sobre vendas de clientes novos
-
-A remuneração esperada é de R$4500,00 ou mais. [Mais detalhes aqui] (https://bit.ly/2UgKIbF).
-
-### Da cultura
+## Cultura
 
 A Ziro está em seu estágio inicial. Buscamos pessoas que genuinamente queiram construir conosco a empresa, criar uma identidade para ela e deixar um legado.
 
@@ -33,14 +32,14 @@ As pessoas que se juntarem a nós nesse estágio poderão desenvolver suas carre
 
 Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos pessoas que não tenham medo de dar e de receber feedback e valorizamos, acima de tudo, iniciativa, autonomia e olhar crítico.
 
-### Do processo
+## Processo
 
 Caso tenha interesse em trabalhar conosco na área de Assessoria, as etapas do processo são:
-1. Teste em planilha Google Sheets. [Acessar aqui] (http://bit.ly/teste-assessoria)
-2. Simulação de atendimento ao lojista via Whatsapp
-3. Conversa no escritório da Ziro
+1. Teste em planilha Google Sheets. [Acessar aqui](http://bit.ly/teste-assessoria).
+2. Simulação de atendimento ao lojista via Whatsapp.
+3. Conversa no escritório da Ziro.
 
-O processo inicia-se após o envio da sua resolução do [teste em planilha] (http://bit.ly/teste-assessoria) para o email: vitor@ziromoda.com.br
+O processo inicia-se após o envio da sua resolução do [teste em planilha](http://bit.ly/teste-assessoria) para o email: **vitor@ziromoda.com.br**
 
 Basta fazer uma cópia da planilha, resolvê-la e enviar o link no corpo do email junto com uma breve apresentação pessoal.
 
