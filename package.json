@@ -10,6 +10,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
+    "cloudinary-react": "^1.0.6",
     "gatsby": "^2.0.60",
     "gatsby-plugin-netlify-cms": "^3.0.9",
     "gatsby-source-filesystem": "^2.0.10",

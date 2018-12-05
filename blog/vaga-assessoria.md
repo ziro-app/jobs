@@ -7,7 +7,7 @@ title: Vaga Assessoria
 
 A Ziro é uma startup de intermediação em compras no atacado, com escritório localizado no Bom Retiro, SP. Nosso papel é assessorar lojistas de todo o país que desejem abastecer seus estoques de roupas comprando dos fabricantes do bairro. 
 
-Entenda mais sobre nosso modelo de negócio [acessando aqui](https://bit.ly/2Bs6SjE).
+Entenda mais sobre nosso modelo de negócio <a href='https://bit.ly/2Bs6SjE' target='_blank'>acessando aqui</a>.
 
 ## Assessor
 
@@ -22,7 +22,7 @@ O assessor recebe um fixo, uma comissão e um bônus.
 * Comissão: 10% sobre vendas de clientes atuais.
 * Bônus: 40% sobre vendas de clientes novos.
 
-A remuneração esperada é de R$4500,00 ou mais. [Mais detalhes aqui](https://bit.ly/2UgKIbF).
+A remuneração esperada é de R$4500,00 ou mais. <a href='https://bit.ly/2UgKIbF' target='_blank'>Mais detalhes aqui</a>.
 
 ## Cultura
 
@@ -35,11 +35,11 @@ Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos
 ## Processo
 
 Caso tenha interesse em trabalhar conosco na área de Assessoria, as etapas do processo são:
-1. Teste em planilha Google Sheets. [Acessar aqui](http://bit.ly/teste-assessoria).
+1. Teste em planilha Google Sheets. <a href='http://bit.ly/teste-assessoria' target='_blank'>Acessar aqui</a>.
 2. Simulação de atendimento ao lojista via Whatsapp.
 3. Conversa no escritório da Ziro.
 
-O processo inicia-se após o envio da sua resolução do [teste em planilha](http://bit.ly/teste-assessoria) para o email: **vitor@ziromoda.com.br**
+O processo inicia-se após o envio da sua resolução do <a href='http://bit.ly/teste-assessoria' target='_blank'>teste em planilha</a> para o email: **vitor@ziromoda.com.br**
 
 Basta fazer uma cópia da planilha, resolvê-la e enviar o link no corpo do email junto com uma breve apresentação pessoal.
 

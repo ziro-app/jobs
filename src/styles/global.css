@@ -8,3 +8,7 @@ html {
 h2 {
 	margin-top: 50px;
 }
+
+a {
+    text-decoration: none;
+}
