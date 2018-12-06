@@ -2,6 +2,7 @@ import React from 'react'
 import { graphql, Link } from 'gatsby'
 import Parser from 'react-html-parser'
 import { Image } from 'cloudinary-react'
+import BackArrow from '../icons/BackArrow'
 import translateDate from '../utils/translateDate'
 import { container, nav, back, header } from '../styles/post-styles'
 
@@ -17,7 +18,10 @@ const Post = ({ data: { markdownRemark: { frontmatter: { date, path, title }, ht
 				format='png'
 				secure='true'
 		    />
-		    <Link style={back} to='/'><p>Voltar</p></Link>
+		    <Link style={back} to='/'>
+		    	<BackArrow size={18} />
+		    	<p>Voltar</p>
+		    </Link>
 	   	</div>
 		<h1 style={header}>{title}</h1>
 		<span>{translateDate(date)}</span>

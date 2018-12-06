@@ -14,3 +14,13 @@ a {
     color: rgba(48,62,77,0.8);
     font-weight: 600;
 }
+
+@media (max-width: 400px) {
+	h1 {
+		font-size: 28px;
+	}
+
+	h2 {
+		font-size: 21px;
+	}
+}

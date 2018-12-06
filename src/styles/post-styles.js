@@ -12,9 +12,14 @@ nav = {
 },
 
 back = {
-	justifySelf: 'end'
+	justifySelf: 'end',
+	display: 'grid',
+	gridTemplateColumns: '1fr 1fr',
+	alignItems: 'center',
+	justifyItems: 'end',
+	columnGap: '5px'
 },
 
 header = {
-	margin: '0' 
+	margin: '0'
 }
