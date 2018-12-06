@@ -2,9 +2,12 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Parser from 'react-html-parser'
 import { Image } from 'cloudinary-react'
+import translateDate from '../utils/translateDate'
 import { container, header } from '../styles/post-styles'
 
-const Post = ({ data: { markdownRemark: { frontmatter: { date, path, title }, html } } }) =>
+const Post = ({ data: { markdownRemark: { frontmatter: { date, path, title }, html } } }) => {
+	console.log(date)
+	return (
 	<div style={container}>
 		<Image
 			cloudName='ziro'
@@ -15,16 +18,18 @@ const Post = ({ data: { markdownRemark: { frontmatter: { date, path, title }, ht
 			secure='true'
 	    />
 		<h1 style={header}>{title}</h1>
-		<span>{date}</span>
+		<span>{translateDate(date)}</span>
 		{Parser(html)}
 	</div>
+	)
+}
 
 export const pageQuery = graphql`
  query($path: String!) {
  	markdownRemark(frontmatter: { path: { eq: $path } }) {
  		html
  		frontmatter {
- 			date(formatString: "MMMM DD, YYYY")
+ 			date(formatString: "DD MMMM, YYYY")
  			path
  			title
  		}

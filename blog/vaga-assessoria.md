@@ -1,6 +1,6 @@
 ---
 path: /assessoria
-date: 2018-12-05T01:54:35.284Z
+date: 2018-12-07T01:54:35.284Z
 title: Vaga Assessoria
 ---
 ## Empresa
