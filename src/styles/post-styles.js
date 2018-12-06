@@ -6,6 +6,15 @@ container = {
 	padding: '0px 7%'
 },
 
+nav = {
+	display: 'grid',
+	gridTemplateColumns: '1fr 1fr'
+},
+
+back = {
+	justifySelf: 'end'
+},
+
 header = {
 	margin: '0' 
 }
