@@ -6,8 +6,7 @@ import BackArrow from '../icons/BackArrow'
 import translateDate from '../utils/translateDate'
 import { container, nav, back, header } from '../styles/post-styles'
 
-const Post = ({ data: { markdownRemark: { frontmatter: { date, path, title }, html } } }) => {
-	return (
+const Post = ({ data: { markdownRemark: { frontmatter: { date, title }, html } } }) =>
 	<div style={container}>
 		<div style={nav}>
 			<Image
@@ -27,8 +26,6 @@ const Post = ({ data: { markdownRemark: { frontmatter: { date, path, title }, ht
 		<span>{translateDate(date)}</span>
 		{Parser(html)}
 	</div>
-	)
-}
 
 export const pageQuery = graphql`
  query($path: String!) {
@@ -36,7 +33,6 @@ export const pageQuery = graphql`
  		html
  		frontmatter {
  			date(formatString: "DD MMMM, YYYY")
- 			path
  			title
  		}
  	}

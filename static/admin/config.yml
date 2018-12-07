@@ -4,14 +4,22 @@ backend:
 
 media_folder: static/assets
 public_folder: assets
+display_url: https://vagas.ziro.online
+slug:
+  encoding: ascii
+  clean_accents: true
 
 collections:
   - name: blog
-    label: Blog
+    label: Post
+    description: Crie um post para divulgar uma nova vaga
     folder: blog
     create: true
+    extension: md
+    format: frontmatter
+    slug: '{{year}}-{{month}}-{{day}}_{{slug}}'
     fields:
       - { name: path, label: Path }
-      - { name: date, label: Date, widget: date }
+      - { name: date, label: Date, widget: date, format: 'DD/MM/YYY' }
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
