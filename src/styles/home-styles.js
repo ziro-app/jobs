@@ -15,4 +15,11 @@ header = {
 title = {
 	fontSize: '26px',
 	fontWeight: '600'
+},
+
+divider = {
+	width: '25%',
+	margin: '20px 0',
+	border: '0',
+	borderTop: '1px solid #F1F1F1'
 }

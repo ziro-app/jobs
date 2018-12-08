@@ -21,5 +21,7 @@ collections:
     fields:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: date }
+      - { name: location, label: Location, widget: select, options: ['Remoto', 'São Paulo, SP'] }
+      - { name: area, label: Area, widget: select, options: ['Operação', 'Produto'] }
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }

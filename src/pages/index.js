@@ -1,6 +1,6 @@
 import React from 'react'
 import { Image } from 'cloudinary-react'
-import { container, header, title } from '../styles/home-styles'
+import { container, header, title, divider } from '../styles/home-styles'
 
 const Home = () =>
 	<div style={container}>
@@ -18,6 +18,7 @@ const Home = () =>
 		<p>
 			Confira as oportunidades atualmente em aberto na Ziro.
 		</p>
+		<hr style={divider} />
 	</div>
 
 export default Home
