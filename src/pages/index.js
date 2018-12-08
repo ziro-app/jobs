@@ -1,11 +1,9 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import { Image } from 'cloudinary-react'
-import { container, header, title, divider } from '../styles/home-styles'
+import { container, header, title, divider, job, name, tags } from '../styles/home-styles'
 
-const Home = ({ data: { allMarkdownRemark: { edges } } }) => {
-	console.log(edges)
-	return (
+const Home = ({ data: { allMarkdownRemark: { edges } } }) =>
 	<div style={container}>
 		<div style={header}>
 			<Image
@@ -22,9 +20,18 @@ const Home = ({ data: { allMarkdownRemark: { edges } } }) => {
 			Confira as oportunidades atualmente em aberto na Ziro.
 		</p>
 		<hr style={divider} />
+		{
+			edges.map( ({ node: { frontmatter: { location, area, title } } }, index) =>
+				<div style={job} key={index}>
+					<span style={name}>{title}</span>
+					<div style={tags}>
+						<span>{location}</span>
+						<span>{area}</span>
+					</div>
+				</div>
+			)
+		}
 	</div>
-	)
-}
 
 export const pageQuery = graphql`
 	query {
@@ -32,7 +39,6 @@ export const pageQuery = graphql`
 	    edges {
 	      node {
 	        frontmatter {
-	          date(formatString: "DD MMMM, YYYY")
 	          location
 	          area
 	          title
