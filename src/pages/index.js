@@ -1,7 +1,7 @@
 import React from 'react'
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 import { Image } from 'cloudinary-react'
-import { container, header, title, divider, job, name, tags } from '../styles/home-styles'
+import { container, header, title, divider, job, name, tags, button } from '../styles/home-styles'
 
 const Home = ({ data: { allMarkdownRemark: { edges } } }) =>
 	<div style={container}>
@@ -21,13 +21,18 @@ const Home = ({ data: { allMarkdownRemark: { edges } } }) =>
 		</p>
 		<hr style={divider} />
 		{
-			edges.map( ({ node: { frontmatter: { location, area, title } } }, index) =>
+			edges.map( ({ node: { frontmatter: { path, location, area, title } } }, index) =>
 				<div style={job} key={index}>
-					<span style={name}>{title}</span>
-					<div style={tags}>
-						<span>{location}</span>
-						<span>{area}</span>
+					<div>
+						<span style={name}>{title}</span>
+						<div style={tags}>
+							<span>{location}</span>
+							<span>{area}</span>
+						</div>
 					</div>
+					<Link style={button} to={path}>
+						Saiba Mais
+					</Link>
 				</div>
 			)
 		}
@@ -39,6 +44,7 @@ export const pageQuery = graphql`
 	    edges {
 	      node {
 	        frontmatter {
+	          path
 	          location
 	          area
 	          title

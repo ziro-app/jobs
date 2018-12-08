@@ -1,7 +1,7 @@
 export const
 
 container = {
-	maxWidth: '900px',
+	maxWidth: '800px',
 	margin: '40px auto 80px',
 	padding: '0px 7%'
 },
@@ -13,7 +13,7 @@ header = {
 },
 
 title = {
-	fontSize: '26px',
+	fontSize: '32px',
 	fontWeight: '600'
 },
 
@@ -26,7 +26,9 @@ divider = {
 
 job = {
 	marginTop: '30px',
-	letterSpacing: '0.5px'
+	display: 'grid',
+	gridTemplateColumns: '1fr 100px',
+	alignItems: 'center'
 },
 
 name = {
@@ -41,4 +43,23 @@ tags = {
 	gridColumnGap: '15px',
 	fontSize: '12px',
 	textTransform: 'uppercase'
+},
+
+button = {
+	WebkitAppearance: 'none',
+	MozAppearance: 'none',
+	outline: 'none',
+	cursor: 'pointer',
+	width: '100%',
+	justifySelf: 'center',
+	border: 'none',
+	borderRadius: '6px',
+	padding: '10px 0px',
+	fontSize: '12px',
+	fontWeight: '700',
+	textAlign: 'center',
+	color: '#FFF',
+	backgroundColor: 'rgba(48,62,77,0.8)',
+	boxShadow: `0px 3px 10px 0px rgba(48,62,77,0.10), 0px 3px 20px 0px rgba(48,62,77,0.08), 
+	0px 3px 30px 0px rgba(48,62,77,0.06), 0px 3px 40px 0px rgba(48,62,77,0.04)`,
 }
