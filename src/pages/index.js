@@ -33,6 +33,8 @@ export const pageQuery = graphql`
 	      node {
 	        frontmatter {
 	          date(formatString: "DD MMMM, YYYY")
+	          location
+	          area
 	          title
 	        }
 	      }

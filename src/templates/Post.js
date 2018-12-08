@@ -28,15 +28,15 @@ const Post = ({ data: { markdownRemark: { frontmatter: { date, title }, html } }
 	</div>
 
 export const pageQuery = graphql`
- query($path: String!) {
- 	markdownRemark(frontmatter: { path: { eq: $path } }) {
- 		html
- 		frontmatter {
- 			date(formatString: "DD MMMM, YYYY")
- 			title
- 		}
- 	}
- }
+	query($path: String!) {
+	 	markdownRemark(frontmatter: { path: { eq: $path } }) {
+	 		html
+	 		frontmatter {
+	 			date(formatString: "DD MMMM, YYYY")
+	 			title
+	 		}
+	 	}
+	}
 `
 
 export default Post
