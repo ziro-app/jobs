@@ -11,8 +11,8 @@ slug:
 
 collections:
   - name: blog
-    label: Post
-    description: Crie um post para divulgar uma nova vaga
+    label: Jobs
+    description: Click 'New Job' to post job opening to dashboard
     folder: blog
     create: true
     extension: md

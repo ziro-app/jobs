@@ -1,8 +1,11 @@
 import React from 'react'
+import { graphql } from 'gatsby'
 import { Image } from 'cloudinary-react'
 import { container, header, title, divider } from '../styles/home-styles'
 
-const Home = () =>
+const Home = ({ data: { allMarkdownRemark: { edges } } }) => {
+	console.log(edges)
+	return (
 	<div style={container}>
 		<div style={header}>
 			<Image
@@ -20,5 +23,22 @@ const Home = () =>
 		</p>
 		<hr style={divider} />
 	</div>
+	)
+}
+
+export const pageQuery = graphql`
+	query {
+	  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}) {
+	    edges {
+	      node {
+	        frontmatter {
+	          date(formatString: "DD MMMM, YYYY")
+	          title
+	        }
+	      }
+	    }
+	  }
+	}
+`
 
 export default Home
