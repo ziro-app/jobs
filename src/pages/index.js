@@ -24,6 +24,7 @@ const Home = ({ data: { allMarkdownRemark: { edges } } }) =>
 				version='1508000699'
 				format='png'
 				secure='true'
+				alt='logo'
 		    />
 			<span style={title}>Mural de vagas</span>
 		</div>

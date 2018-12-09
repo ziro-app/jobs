@@ -16,6 +16,7 @@ const Post = ({ data: { markdownRemark: { frontmatter: { date, title }, html } }
 				version='1508000699'
 				format='png'
 				secure='true'
+				alt='logo'
 		    />
 		    <Link style={back} to='/'>
 		    	<BackArrow size={18} />
