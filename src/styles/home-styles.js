@@ -25,10 +25,10 @@ divider = {
 },
 
 job = {
-	marginTop: '30px',
 	display: 'grid',
 	gridTemplateColumns: '1fr 100px',
-	alignItems: 'center'
+	alignItems: 'center',
+	marginBottom: '30px'
 },
 
 name = {
@@ -51,7 +51,6 @@ button = {
 	outline: 'none',
 	cursor: 'pointer',
 	width: '100%',
-	justifySelf: 'center',
 	border: 'none',
 	borderRadius: '6px',
 	padding: '10px 0px',

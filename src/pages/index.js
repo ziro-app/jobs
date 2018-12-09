@@ -16,9 +16,7 @@ const Home = ({ data: { allMarkdownRemark: { edges } } }) =>
 		    />
 			<span style={title}>Mural de vagas</span>
 		</div>
-		<p>
-			Confira as oportunidades atualmente em aberto na Ziro.
-		</p>
+		<p>Confira as oportunidades atualmente em aberto na Ziro.</p>
 		<hr style={divider} />
 		{
 			edges.map( ({ node: { frontmatter: { path, location, area, title } } }, index) =>
@@ -30,9 +28,7 @@ const Home = ({ data: { allMarkdownRemark: { edges } } }) =>
 							<span>{area}</span>
 						</div>
 					</div>
-					<Link style={button} to={path}>
-						Saiba Mais
-					</Link>
+					<Link style={button} to={path}>Saiba Mais</Link>
 				</div>
 			)
 		}
