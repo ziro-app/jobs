@@ -1,6 +1,9 @@
 backend:
-  name: github
+  name: git-gateway
   repo: ziro-app/jobs
+  accept_roles:
+    - admin
+    - editor
 
 media_folder: static/assets
 public_folder: assets
