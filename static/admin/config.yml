@@ -19,7 +19,7 @@ collections:
     format: frontmatter
     slug: '{{year}}-{{month}}-{{day}}_{{slug}}'
     fields:
-      - { name: path, label: Path }
+      - { name: path, label: Path, widget: string, pattern: ['^\/', 'Deve iniciar com /'] }
       - { name: date, label: Date, widget: date }
       - { name: location, label: Location, widget: select, options: ['Remoto', 'São Paulo, SP'] }
       - { name: area, label: Area, widget: select, options: ['Operação', 'Produto'] }
