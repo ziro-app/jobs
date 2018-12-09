@@ -1,10 +1,21 @@
 import React from 'react'
 import { graphql, Link } from 'gatsby'
+import { Helmet } from 'react-helmet'
 import { Image } from 'cloudinary-react'
 import { container, header, title, divider, job, name, tags, button } from '../styles/home-styles'
 
 const Home = ({ data: { allMarkdownRemark: { edges } } }) =>
 	<div style={container}>
+		<Helmet defaultTitle='Ziro Vagas'>
+			<meta charset='UTF-8' />
+			<meta name='viewport' content='width=device-width, initial-scale=1' />
+			<html lang='pt-br' />
+			<link rel='canonical' href='https://vagas.ziro.online' />
+	        <meta property='og:url' content='https://vagas.ziro.online' />
+	        <meta property='og:type' content='website' />
+	        <meta property='og:locale' content='pt-br' />
+	        <meta property='og:site_name' content='Ziro Vagas' />
+		</Helmet>
 		<div style={header}>
 			<Image
 				cloudName='ziro'

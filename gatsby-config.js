@@ -20,6 +20,8 @@ module.exports = {
 				display: 'standalone',
 				icon: 'static/favicon.ico'
 			}
-		}
+		},
+		'gatsby-plugin-react-helmet',
+		'gatsby-plugin-offline'
 	]
 }
