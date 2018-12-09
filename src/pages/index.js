@@ -11,6 +11,7 @@ const Home = ({ data: { allMarkdownRemark: { edges } } }) =>
 			<meta name='viewport' content='width=device-width, initial-scale=1' />
 			<html lang='pt-br' />
 			<link rel='canonical' href='https://vagas.ziro.online' />
+	        <meta name='Description' content='Mural de vagas da Ziro' />
 	        <meta property='og:url' content='https://vagas.ziro.online' />
 	        <meta property='og:type' content='website' />
 	        <meta property='og:locale' content='pt-br' />
