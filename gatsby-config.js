@@ -8,6 +8,18 @@ module.exports = {
 				name: 'markdown-pages'
 			}
 		},
-		'gatsby-transformer-remark'
+		'gatsby-transformer-remark',
+		{
+			resolve: 'gatsby-plugin-manifest',
+			options: {
+				name: 'Ziro Vagas',
+				short_name: 'Vagas',
+				start_url: '/',
+				background_color: '#FFF',
+				theme_color: '#FFF',
+				display: 'standalone',
+				icon: 'static/favicon.ico'
+			}
+		}
 	]
 }
