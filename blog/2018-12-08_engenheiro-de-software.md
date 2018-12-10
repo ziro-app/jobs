@@ -39,7 +39,7 @@ Preferimos desenvolver utilizando as arquiteturas JAMStack e Microservices.
 
 Conhecimento prévio nessas tecnologias/arquiteturas não é um pré-requisito, mas a capacidade de aprendizado acelerado é algo que buscamos no perfil.
 
-O trabalho é remoto e não colocamos restrições acerca da cidade de residência nem ao horário de trabalho.
+O trabalho é remoto e não colocamos restrições acerca da cidade de residência nem quanto ao horário de trabalho.
 
 ## Responsabilidades
 
@@ -68,4 +68,4 @@ Ao final de cada teste, será agendada uma video-chamada para que você explique
 
 Mais do que a resposta em si, será considerada sua resiliência e capacidade de aprendizado.
 
-Para iniciar o processo, envie um email para: **vitor@ziromoda.com.br** afirmando seu interesse. Será combinado o prazo para resolução dos testes.
+Para iniciar o processo, envie um email para: **vitor@ziromoda.com.br** afirmando seu interesse. Nesse momento, será feito o envio dos testes com o prazo combinado para resolução.
