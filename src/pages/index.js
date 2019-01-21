@@ -32,18 +32,23 @@ const Home = ({ data: { allMarkdownRemark: { edges } } }) =>
 		<p>Confira as oportunidades atualmente em aberto na Ziro.</p>
 		<hr style={divider} />
 		{
-			edges.map( ({ node: { frontmatter: { path, location, area, title } } }, index) =>
-				<div style={job} key={index}>
-					<div>
-						<span style={name}>{title}</span>
-						<div style={tags}>
-							<span>{location}</span>
-							<span>{area}</span>
+			edges.map( ({ node: { frontmatter: { path, location, area, title, enabled } } }, index) => {
+				if (enabled) {
+					return (
+						<div style={job} key={index}>
+							<div>
+								<span style={name}>{title}</span>
+								<div style={tags}>
+									<span>{location}</span>
+									<span>{area}</span>
+								</div>
+							</div>
+							<Link style={button} to={path}>Saiba Mais</Link>
 						</div>
-					</div>
-					<Link style={button} to={path}>Saiba Mais</Link>
-				</div>
-			)
+					)
+				}
+				return null
+			})
 		}
 	</div>
 
@@ -57,6 +62,7 @@ export const pageQuery = graphql`
 	          location
 	          area
 	          title
+	          enabled
 	        }
 	      }
 	    }
