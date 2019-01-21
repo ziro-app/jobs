@@ -59,6 +59,6 @@ button = {
 	textAlign: 'center',
 	color: '#FFF',
 	backgroundColor: 'rgba(48,62,77,0.8)',
-	boxShadow: `0px 3px 10px 0px rgba(48,62,77,0.10), 0px 3px 20px 0px rgba(48,62,77,0.08), 
-	0px 3px 30px 0px rgba(48,62,77,0.06), 0px 3px 40px 0px rgba(48,62,77,0.04)`,
+	boxShadow: `0px 5px 10px 1px rgba(48,62,77,0.20), 0px 5px 20px 1px rgba(48,62,77,0.16), 
+	0px 5px 30px 1px rgba(48,62,77,0.12), 0px 5px 40px 1px rgba(48,62,77,0.08)`
 }
