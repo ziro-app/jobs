@@ -25,5 +25,6 @@ collections:
       - { name: date, label: Date, widget: date }
       - { name: location, label: Location, widget: select, options: ['Remoto', 'São Paulo, SP'] }
       - { name: area, label: Area, widget: select, options: ['Operação', 'Produto'] }
+      - { name: enabled, label: Enabled, widget: boolean, default: true }
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
