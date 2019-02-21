@@ -4,7 +4,7 @@ date: 2019-02-21T12:53:26.032Z
 location: 'São Paulo, SP'
 area: Operação
 enabled: false
-title: Estagiário
+title: Estagiário de Logística
 ---
 ## Empresa
 
