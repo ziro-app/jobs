@@ -22,7 +22,7 @@ Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos
 
 ## Estagiário de logística
 
-O estagiário de logística atua internamente na Ziro, em parceria com o assistente externo, realizando controle, conferência e etapas administrativas relacionadas às mercadorias dos lojistas. 
+O estagiário de logística atua internamente na Ziro, em parceria com o ajudante geral, realizando controle, conferência e etapas administrativas relacionadas às mercadorias dos lojistas. 
 
 O estagiário de logística faz o acompanhamento da retirada da mercadoria, até o despacho e recebimento no endereço escolhido, recebendo o apoio da nossa área de Assessoria nas etapas pertinentes.
 
