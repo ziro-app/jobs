@@ -32,10 +32,13 @@ O trabalho é presencial em meio período, em nosso escritório localizado no Bo
 
 ## Responsabilidades
 
-* Acompanhar e atualizar a retirada das mercadorias compradas pelo lojista
+* Realizar controles e follow-up de todas as retiradas das mercadorias compradas pelo lojista nos fabricantes parceiros
+* Cotação de fretes para fora do estado.  
 * Administrar despachos e recebimento da mercadoria no destino final
-* Solicitar cotações, coletas e entregas com aplicativos e parceiros
+* Solicitar coletas e entregas com aplicativos e parceiros
 * Conferir notas fiscais, romaneios e dados cadastrais dos pedidos 
+* Rastreio de envio pelos Correios e transportadoras
+* Feedback das entregas realizadas com clientes
 * Atualizar banco de dados de fornecedores atuais e sugerir novos
 * Identificar falhas em processos e propor melhorias
 * Colocar-se à disposição para ajudar em quaisquer tarefas necessárias ao crescimento da empresa
