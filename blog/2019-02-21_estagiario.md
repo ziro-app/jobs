@@ -33,7 +33,7 @@ O trabalho é presencial em meio período, em nosso escritório localizado no Bo
 ## Responsabilidades
 
 * Realizar controles e follow-up de todas as retiradas das mercadorias compradas pelo lojista nos fabricantes parceiros
-* Cotação de fretes para fora do estado.  
+* Cotação de fretes para todo o Brasil
 * Administrar despachos e recebimento da mercadoria no destino final
 * Solicitar coletas e entregas com aplicativos e parceiros
 * Conferir notas fiscais, romaneios e dados cadastrais dos pedidos 
