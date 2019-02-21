@@ -28,6 +28,8 @@ O estagiário de logística faz o acompanhamento da retirada da mercadoria, até
 
 É essencial que o estagiário de logística tenha foco, seja atento aos detalhes e especificidades de cada lojista garantindo que a mercadoria seja retirada e entregue em segurança ao menor custo e tempo possível.
 
+Todos os controles são feitos via planilha de dados e sistemas em nuvem, portanto conhecimento em pacote office e windows é mandatório.
+
 O trabalho é presencial em meio período, em nosso escritório localizado no Bom Retiro e mesmo sendo uma vaga prioritariamente interna, pode requerer saídas ocasionais para resolução de demandas externas com os fabricantes parceiros. Esse componente operacional é essencial para a sustentação do modelo de negócios da Ziro.
 
 ## Responsabilidades
