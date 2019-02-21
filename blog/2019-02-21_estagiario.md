@@ -3,7 +3,7 @@ path: /Logística
 date: 2019-02-21T12:53:26.032Z
 location: 'São Paulo, SP'
 area: Operação
-enabled: true
+enabled: false
 title: Estagiário
 ---
 ## Empresa
