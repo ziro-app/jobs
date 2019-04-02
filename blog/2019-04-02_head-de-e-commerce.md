@@ -30,16 +30,16 @@ Almejamos encontrar uma pessoa com capacidade analítica e visão de negócios. 
 
 ## Responsabilidades
 
-* Executar (e participar da elaboração de) plano estratégico para crescimento da empresa, incluindo atingimento de metas de vendas globais
-* Corrigir e antever problemas de atendimento na operação, tratando diretamente com o cliente (quando necessário intervenção) e orientando a equipe acerca das correções a serem realizadas
-* Garantir e aumentar eficiência dos processos atuais (prospecção, atendimento e logística), bem como ajudar a empresa a transitar para o modelo de negócios digital (marketplace atacado)
-* Organizar ambiente de escritório (despesas com clientes, materiais e mantimentos da operação, relacionamento com parceiros operacionais e fornecedores)
+* Executar (e participar da elaboração de) plano estratégico para crescimento da empresa, incluindo atingimento de metas de vendas globais.
+* Corrigir e antever problemas de atendimento na operação, tratando diretamente com o cliente (quando necessário intervenção) e orientando a equipe acerca das correções a serem realizadas.
+* Garantir e aumentar eficiência dos processos atuais (prospecção, atendimento e logística), bem como ajudar a empresa a transitar para o modelo de negócios digital (marketplace atacado).
+* Organizar ambiente de escritório (despesas com clientes, materiais e mantimentos da operação, relacionamento com parceiros operacionais e fornecedores).
 
 ## Remuneração
 
 R$5.000,00 em contrato de pessoa jurídica.
 
-De 1% a 3% em _equity _(a combinar).
+1% - 3% em _equity_ (a combinar).
 
 ## Processo
 
@@ -49,16 +49,12 @@ Caso tenha interesse em trabalhar conosco, as etapas do processo serão:
 2. Conversa sobre gestão de negócios.
 3. Conversa final com sócios.
 
-Faça uma cópia da planilha-teste em seu Google Drive (não solicite acesso). Resolva-a e gere o link de visualização via botão 'Compartilhar'. Envie o link gerado no corpo do email, junto com uma breve apresentação pessoal.
+Faça uma cópia da planilha-teste em seu Google Drive (não solicite acesso). Resolva-a e gere o link de visualização via botão 'Compartilhar'. Envie o link gerado no corpo do email, junto com uma breve apresentação pessoal. Não envie a planilha no formato Excel (.xlsx).
 
-Não envie a planilha no formato Excel (.xlsx). Converta no Google Drive antes do envio.
-
-Ao final do teste analítico, será agendada uma video-chamada para que seja explicada sua resolução.
-
-Mais do que a resposta em si, será considerada sua resiliência e capacidade de aprendizado.
+Ao final do teste analítico, será agendada uma video-chamada para que seja explicada sua resolução. Mais do que a resposta em si, será considerada sua resiliência e capacidade de aprendizado.
 
 Para iniciar o processo, envie um email para: **vitor@ziromoda.com.br** com a sua resolução da planilha-teste.
 
-Caso tenha dúvidas acerca do processo, pode enviar uma mensagem para o mesmo email acima.
+Caso tenha dúvidas, pode enviar uma mensagem para o mesmo email acima.
 
 **Obs.:** Emails sem o link para a planilha-resposta (ou sem dúvidas) **não serão respondidos**.
