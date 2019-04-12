@@ -3,7 +3,7 @@ path: /head-ecommerce
 date: 2019-04-02T17:44:11.184Z
 location: 'São Paulo, SP'
 area: Operação
-enabled: true
+enabled: false
 title: Head de E-Commerce
 ---
 ## Empresa
