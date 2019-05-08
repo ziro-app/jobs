@@ -3,7 +3,7 @@ path: /analista-processos
 date: 2019-04-11T11:53:26.032Z
 location: 'São Paulo, SP'
 area: Operação
-enabled: true
+enabled: false
 title: Analista de Processos
 ---
 ## Empresa
