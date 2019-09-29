@@ -3,7 +3,7 @@ path: /engenharia
 date: 2019-01-21T19:17:54.630Z
 location: Remoto
 area: Produto
-enabled: true
+enabled: false
 title: Engenheiro de Software
 ---
 ## Empresa
