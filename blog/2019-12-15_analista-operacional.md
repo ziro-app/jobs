@@ -4,7 +4,7 @@ date: 2019-12-17T01:52:36.515Z
 location: 'São Paulo, SP'
 area: Operação
 enabled: true
-title: Analista Operacional
+title: Analista de Dados
 ---
 ## Empresa
 
@@ -20,39 +20,32 @@ As pessoas que se juntarem a nós nesse estágio poderão desenvolver suas carre
 
 Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos pessoas que não tenham medo de dar e de receber feedback e valorizamos, acima de tudo, iniciativa, autonomia e olhar crítico.
 
-## Analista Operacional
+## Analista de Dados
 
-O analista é responsável por garantir a correta execução dos processos logísticos da Ziro. Sua atribuição é acompanhar a operação através de planilhas e sistemas, estando atendo a potenciais falhas, gargalos e emergências, atuando e oferecendo para a equipe as informações necessárias para resolvê-las.
+O analista de dados tem perfil fortemente analítico e sente-se à vontade manipulando planilhas
 
-Buscamos uma pessoa que faça nossa área de logística funcionar bem e que deseje crescer junto com a empresa.
+Buscamos alguém que nos ajude a interpretar nosso momento atual, que consiga tomar decisões, mas que também ponha a mão na massa, criando e executando os processos necessários
+
+Queremos que a Ziro seja uma empresa com cultura de dados, porém nosso atual tamanho requer pessoas não apenas fazendo análises, mas também construindo e fazendo automações
 
 ## Responsabilidades
 
-* Controlar via planilha e agenda as retiradas de mercadorias executadas pela equipe de logística
-* Conferir notas fiscais, romaneios e dados cadastrais dos pedidos
-* Cotar fretes para todo o Brasil
-* Solicitar coletas e entregas com aplicativos e parceiros
-* Administrar despachos e recebimento da mercadoria no destino final
-* Rastrear envios pelos correios e transportadoras
-* Dar feedback para clientes acerca das entregas realizadas
-* Organizar estrategicamente o espaço de logística do escritório
-* Controlar despesas operacionais
-* Identificar falhas em processos e propor melhorias
-* Digitalizar e automatizar processos manuais
-* Colocar-se à disposição para ajudar em quaisquer tarefas necessárias ao crescimento da empresa
+* Desenvolvimento de fórmulas QUERY em Google Sheets
+* Desenvolvimento de scripts em Google Sheets
+* Automação de processos, usando quaisquer software internos ou de mercado
+* Integração de planilhas em APIs da Ziro ou APIs públicas
+* Análises de dados gerados por processos internos
 
 ## Remuneração
 
-R$2.000,00 em contrato de pessoa jurídica.
+R$3.500,00 em contrato de pessoa jurídica.
 
 ## Processo
 
 Caso tenha interesse em trabalhar conosco, as etapas do processo serão:
 
-1. Teste em planilha Google Sheets. <a href='http://bit.ly/analista-processos' target='_blank'>Acessar aqui</a>.
+1. Teste em planilha Google Sheets. <a href='https://docs.google.com/spreadsheets/d/1a09cKVt1lZ6WNpqD_k5GU9xKfE2etYe0ce3PG22X4No' target='_blank'>Acessar aqui</a>.
 2. Conversa com sócios.
-
-O processo inicia-se após o envio da sua resolução do <a href='http://bit.ly/analista-processos' target='_blank'>teste em planilha</a> para o email: vitor@ziromoda.com.br
 
 **Instruções para o teste**
 
