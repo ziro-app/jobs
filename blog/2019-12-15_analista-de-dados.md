@@ -22,11 +22,9 @@ Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos
 
 ## Analista de Dados
 
-O analista de dados tem perfil fortemente analítico e sente-se à vontade manipulando planilhas
+O analista de dados tem perfil fortemente analítico e sente-se à vontade manipulando planilhas.
 
-Buscamos alguém que nos ajude a interpretar nosso momento atual, que consiga tomar decisões, mas que também ponha a mão na massa, criando e executando os processos necessários
-
-Queremos que a Ziro seja uma empresa com cultura de dados, porém nosso atual tamanho requer pessoas não apenas fazendo análises, mas também construindo e fazendo automações
+Buscamos alguém que nos ajude a interpretar nosso momento atual, que consiga tomar decisões, mas que também ponha a mão na massa, criando e executando os processos necessários.
 
 ## Responsabilidades
 
