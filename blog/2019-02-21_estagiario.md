@@ -22,7 +22,7 @@ Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos
 
 ## Logístico
 
-O logístico é responsável por executar processos de logística da Ziro. Sua atribuição é garantir que as mercadorias compradas pelos lojistas sejam corretamente retiradas dos fabricantes parceiros e despachadas para o destino final.
+O logístico é responsável por executar os processos de transporte manual de mercadorias. Sua atribuição é garantir que as mercadorias compradas pelos lojistas sejam corretamente retiradas dos fabricantes parceiros e despachadas para o destino final.
 
 Buscamos uma pessoa que faça nossa área de logística funcionar bem e que deseje crescer junto com a empresa.
 
