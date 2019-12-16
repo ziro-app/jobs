@@ -22,7 +22,7 @@ Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos
 
 ## Analista Operacional
 
-O analista é responsável por garantir a correta execução dos processos logísticos da Ziro. Sua atribuição é acompanhar a operação através de planilhas e sistemas, estando atendo a potenciais falhas, gargalos e emergências, atuando e oferecendo para a equipe as informações necessárias para resolvê-las.
+O analista é responsável por garantir a correta execução dos processos logísticos da Ziro. Sua atribuição é acompanhar a operação através de planilhas e sistemas, estando atento a potenciais falhas, gargalos e emergências, atuando e oferecendo para a equipe as informações necessárias para resolvê-las.
 
 Buscamos uma pessoa que faça nossa área de logística funcionar bem e que deseje crescer junto com a empresa.
 
