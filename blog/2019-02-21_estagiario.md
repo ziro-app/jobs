@@ -48,7 +48,7 @@ Caso tenha interesse em trabalhar conosco, as etapas do processo serão:
 1. Teste em planilha Google Sheets. <a href='http://bit.ly/filtro-logistica' target='_blank'>Acessar aqui</a>.
 2. Conversa com sócios.
 
-O processo inicia-se após o envio da sua resolução do <a href='http://bit.ly/analista-processos' target='_blank'>teste em planilha</a> para o email: vitor@ziromoda.com.br
+O processo inicia-se após o envio da sua resolução do <a href='http://bit.ly/filtro-logistica' target='_blank'>teste em planilha</a> para o email: vitor@ziromoda.com.br
 
 **Instruções para o teste**
 
