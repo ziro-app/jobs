@@ -1,9 +1,9 @@
 ---
 path: /engenharia
-date: 2019-01-21T19:17:54.630Z
+date: 2019-12-16T19:17:54.630Z
 location: Remoto
 area: Produto
-enabled: false
+enabled: true
 title: Engenheiro de Software
 ---
 ## Empresa
@@ -24,17 +24,18 @@ Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos
 
 Estamos em busca do primeiro engenheiro para compor nosso time de produto.
 
-Esse indivíduo será co-responsável, juntamente com nosso CTO, por todo o desenvolvimento das tecnologias externas e internas da Ziro.
+Esse indivíduo atuará de maneira bastante autônoma, desenvolvendo as tecnologias externas e internas da Ziro.
 
-Almejamos encontrar uma pessoa com capacidade técnica para programar, mas que também possua visão de negócios com potencial suficiente para vir a ocupar a posição de Diretor de Tecnologia no futuro.
+Almejamos encontrar uma pessoa com capacidade técnica para programar, mas que também possua visão de negócios e consiga tomar decisões de tecnologia alinhadas com os objetivos estratégicos da empresa.
 
-Hoje, nossos softwares são desenvolvidos em tecnologias web, dentre as quais:
+Hoje, nossa stack é a seguinte:
 
 * Javascript ES6+
-* React
-* Node
-* GraphQL
+* React (Hooks)
+* Node (Lambda Functions)
+* Firebase
 * Webpack
+* Bit
 
 Preferimos desenvolver utilizando as arquiteturas JAMStack e Microservices.
 
@@ -46,14 +47,12 @@ O trabalho é remoto e não colocamos restrições acerca da cidade de residênc
 
 * Compreender nosso modelo de negócios e priorizar, durante o desenvolvimento, _features_ que sejam adequadas à nossa realidade e aos desejos dos nossos clientes.
 * Comunicar-se com clientes e membros do time Ziro para embasar as decisões de desenvolvimento.
-* Manter softwares de uso interno e desenvolver novos.
-* Manter softwares de uso por parte dos clientes e desenvolver novos.
-* Manter-se atualizado acerca das evoluções das tecnologias utilizadas na empresa (React, Node, etc) bem como das arquiteturas (JAMStack, Microservices, etc).
-* Desenvolver o _front-end_ e o _back-end_ dos softwares necessários.
+* Manter softwares de uso interno e externo.
+* Desenvolver o _front-end_ e o _back-end_ dos softwares.
 
 ## Remuneração
 
-A oferta final ficará entre R$ 3500,00 e R$5000,00 e será baseada no potencial de entrega imediata do indivíduo. Não teremos receio de fazer uma oferta para pessoas com menos bagagem, mas com interesse genuíno e capacidade de aprendizado.
+Oferecemos a remuneração de R$ 4.000,00. Não teremos receio de fazer uma oferta para pessoas com menos bagagem, mas com interesse genuíno pelo projeto e vontade de aprender.
 
 Também poderá ser ofertado _equity_.
 
@@ -61,12 +60,7 @@ Também poderá ser ofertado _equity_.
 
 Caso tenha interesse em trabalhar conosco, as etapas do processo serão:
 
-1. Teste de Business.
-2. Teste de Coding.
-3. Conversa final.
+1. Projeto de Coding.
+2. Apresentação do projeto e conversa final.
 
-Ao final de cada teste, será agendada uma video-chamada para que você explique sua resolução.
-
-Mais do que a resposta em si, será considerada sua resiliência e capacidade de aprendizado.
-
-Para iniciar o processo, envie um email para: **vitor@ziromoda.com.br** afirmando seu interesse. Nesse momento, será feito o envio dos testes com o prazo combinado para resolução.
+Para iniciar o processo, envie um email para: **vitor@ziromoda.com.br** afirmando seu interesse. Nesse momento, será feito o envio da descrição do projeto com o prazo combinado para entrega.
