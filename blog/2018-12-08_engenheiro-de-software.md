@@ -1,10 +1,10 @@
 ---
 path: /engenharia
-date: 2019-12-16T19:17:54.630Z
+date: 2020-01-09T19:17:54.630Z
 location: Remoto
 area: Produto
 enabled: true
-title: Engenheiro de Software
+title: Desenvolvedor
 ---
 ## Empresa
 
@@ -20,9 +20,9 @@ As pessoas que se juntarem a nós nesse estágio poderão desenvolver suas carre
 
 Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos pessoas que não tenham medo de dar e de receber feedback e valorizamos, acima de tudo, iniciativa, autonomia e olhar crítico.
 
-## Engenheiro
+## Desenvolvedor
 
-Estamos em busca do primeiro engenheiro para compor nosso time de produto.
+Estamos em busca do primeiro desenvolvedor para compor nosso time de produto.
 
 Esse indivíduo atuará de maneira bastante autônoma, desenvolvendo as tecnologias externas e internas da Ziro.
 
