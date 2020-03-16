@@ -1,6 +1,6 @@
 ---
 path: /logistico
-date: 2019-12-16T12:53:26.032Z
+date: 2020-03-16T11:53:26.032Z
 location: 'São Paulo, SP'
 area: Operação
 enabled: true
