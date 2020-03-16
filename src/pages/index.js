@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql, Link } from 'gatsby'
 import { Helmet } from 'react-helmet'
-import { Image } from 'cloudinary-react'
+import Logo from '@bit/vitorbarbosa19.ziro.logo'
 import { container, header, title, divider, job, name, tags, button } from '../styles/home-styles'
 
 const Home = ({ data: { allMarkdownRemark: { edges } } }) =>
@@ -18,15 +18,7 @@ const Home = ({ data: { allMarkdownRemark: { edges } } }) =>
 	        <meta property='og:site_name' content='Ziro Vagas' />
 		</Helmet>
 		<div style={header}>
-			<Image
-				cloudName='ziro'
-				width='45'
-				publicId='logo-app_fwothv'
-				version='1561160634'
-				format='png'
-				secure='true'
-				alt='logo'
-		    />
+			<Logo />
 			<span style={title}>Mural de vagas</span>
 		</div>
 		<p>Confira as oportunidades atualmente em aberto na Ziro.</p>

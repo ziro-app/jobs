@@ -1,9 +1,12 @@
+import { primaryColor } from '@ziro/theme'
+
 export const
 
 container = {
 	maxWidth: '800px',
 	margin: '40px auto 80px',
-	padding: '0px 7%'
+	padding: '0px 7%',
+	color: primaryColor
 },
 
 nav = {

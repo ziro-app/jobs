@@ -2,7 +2,7 @@ html {
 	font-family: 'system-ui', 'sans-serif';
 	line-height: 1.4;
 	letter-spacing: 0.6px;
-	color: rgba(48,62,77,0.8);
+	color: rgba(34,34,34,1);
 }
 
 h2 {
@@ -11,7 +11,7 @@ h2 {
 
 a {
     text-decoration: none;
-    color: rgba(48,62,77,0.8);
+    color: rgba(34,34,34,1);
     font-weight: 600;
 }
 
