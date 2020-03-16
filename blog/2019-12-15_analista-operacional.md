@@ -4,7 +4,7 @@ date: 2020-03-17T02:07:54.295Z
 location: 'São Paulo, SP'
 area: Operação
 enabled: true
-title: Analista Operacional
+title: Analista De Operações
 ---
 ## Empresa
 
@@ -20,7 +20,7 @@ As pessoas que se juntarem a nós nesse estágio poderão desenvolver suas carre
 
 Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos pessoas que não tenham medo de dar e de receber feedback e valorizamos, acima de tudo, iniciativa, autonomia e olhar crítico.
 
-## Analista Operacional
+## Analista de Operações
 
 O analista é responsável por garantir a correta execução dos processos logísticos da Ziro. Sua atribuição é acompanhar a operação através de planilhas e sistemas, estando atento a potenciais falhas, gargalos e emergências, atuando e oferecendo para a equipe as informações necessárias para resolvê-las.
 
