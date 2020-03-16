@@ -10,6 +10,8 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
+    "@bit/vitorbarbosa19.ziro.logo": "^0.1.7",
+    "@ziro/theme": "^1.0.3",
     "cloudinary-react": "^1.0.6",
     "gatsby": "^2.0.60",
     "gatsby-plugin-manifest": "^2.0.11",

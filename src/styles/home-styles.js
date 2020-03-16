@@ -1,9 +1,12 @@
+import { primaryColor } from '@ziro/theme'
+
 export const
 
 container = {
 	maxWidth: '800px',
 	margin: '40px auto 80px',
-	padding: '0px 7%'
+	padding: '0px 7%',
+	color: primaryColor
 },
 
 header = {
@@ -58,7 +61,7 @@ button = {
 	fontWeight: '700',
 	textAlign: 'center',
 	color: '#FFF',
-	backgroundColor: 'rgba(48,62,77,0.8)',
+	backgroundColor: primaryColor,
 	boxShadow: `0px 5px 10px 1px rgba(48,62,77,0.20), 0px 5px 20px 1px rgba(48,62,77,0.16), 
 	0px 5px 30px 1px rgba(48,62,77,0.12), 0px 5px 40px 1px rgba(48,62,77,0.08)`
 }
