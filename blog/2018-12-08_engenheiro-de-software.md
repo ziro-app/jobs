@@ -1,6 +1,6 @@
 ---
-path: /engenharia
-date: 2020-01-09T19:17:54.630Z
+path: /desenvolvimento
+date: 2020-03-23T18:17:54.630Z
 location: Remoto
 area: Produto
 enabled: true
@@ -22,9 +22,7 @@ Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos
 
 ## Desenvolvedor
 
-Estamos em busca do primeiro desenvolvedor para compor nosso time de produto.
-
-Esse indivíduo atuará de maneira bastante autônoma, desenvolvendo as tecnologias externas e internas da Ziro.
+O desenvolvedor atuará de maneira bastante autônoma, contribuindo para evolução e manutenção dos softwares externos e internos da Ziro.
 
 Almejamos encontrar uma pessoa com capacidade técnica para programar, mas que também possua visão de negócios e consiga tomar decisões de tecnologia alinhadas com os objetivos estratégicos da empresa.
 
@@ -52,7 +50,7 @@ O trabalho é remoto e não colocamos restrições acerca da cidade de residênc
 
 ## Remuneração
 
-Oferecemos a remuneração de R$ 4.000,00. Não teremos receio de fazer uma oferta para pessoas com menos bagagem, mas com interesse genuíno pelo projeto e vontade de aprender.
+Oferecemos a remuneração de R$ 4.000,00
 
 Também poderá ser ofertado _equity_.
 
