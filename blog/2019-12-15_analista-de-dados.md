@@ -1,6 +1,6 @@
 ---
 path: /analista-dados
-date: 2019-12-16T03:14:03.743Z
+date: 2020-03-24T02:14:03.743Z
 location: Remoto
 area: Produto
 enabled: true
@@ -24,7 +24,7 @@ Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos
 
 O analista de dados tem perfil fortemente analítico e sente-se à vontade manipulando planilhas.
 
-Buscamos alguém que nos ajude a interpretar nosso momento atual, que consiga tomar decisões, mas que também ponha a mão na massa, criando e executando os processos necessários.
+Buscamos alguém que nos ajude a interpretar nosso momento atual, que consiga tomar decisões, mas que também ponha a mão na massa, criando e executando os processos necessários e automatizando os existentes.
 
 ## Responsabilidades
 
