@@ -1,6 +1,6 @@
 ---
 path: /analista-operacional
-date: 2019-12-17T03:07:54.295Z
+date: 2020-03-17T02:07:54.295Z
 location: 'São Paulo, SP'
 area: Operação
 enabled: true
