@@ -1,10 +1,10 @@
 ---
-path: /logistico
-date: 2019-12-16T12:53:26.032Z
-location: 'São Paulo, SP'
-area: Operação
+path: /analista-dados
+date: 2019-12-16T03:14:03.743Z
+location: Remoto
+area: Produto
 enabled: true
-title: Logístico
+title: Analista de Dados
 ---
 ## Empresa
 
@@ -20,35 +20,32 @@ As pessoas que se juntarem a nós nesse estágio poderão desenvolver suas carre
 
 Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos pessoas que não tenham medo de dar e de receber feedback e valorizamos, acima de tudo, iniciativa, autonomia e olhar crítico.
 
-## Logístico
+## Analista de Dados
 
-O logístico é responsável por executar os processos de transporte manual de mercadorias. Sua atribuição é garantir que as mercadorias compradas pelos lojistas sejam corretamente retiradas dos fabricantes parceiros e despachadas para o destino final.
+O analista de dados tem perfil fortemente analítico e sente-se à vontade manipulando planilhas.
 
-Buscamos uma pessoa que faça nossa área de logística funcionar bem e que deseje crescer junto com a empresa.
+Buscamos alguém que nos ajude a interpretar nosso momento atual, que consiga tomar decisões, mas que também ponha a mão na massa, criando e executando os processos necessários.
 
 ## Responsabilidades
 
-* Retirar mercadorias com carrinho de mão em fabricantes do bairro
-* Transportar as mercadorias retiradas de volta ao nosso escritório
-* Armazenar corretamente as mercadorias retiradas
-* Montar fardos de mercadorias, preparando-as para o despacho
-* Despachar mercadorias para o endereço de destino
-* Conferir notas fiscais, romaneios e dados cadastrais dos pedidos 
-* Solicitar coletas e entregas com aplicativos e parceiros
-* Colocar-se à disposição para ajudar em quaisquer tarefas necessárias ao crescimento da empresa
+* Desenvolvimento de fórmulas QUERY em Google Sheets
+* Desenvolvimento de scripts em Google Sheets
+* Automação de processos, usando quaisquer software internos ou de mercado
+* Integração de planilhas em APIs da Ziro ou APIs públicas
+* Análises de dados gerados por processos internos
 
 ## Remuneração
 
-R$1.500,00 em contrato de pessoa jurídica.
+R$3.500,00 em contrato de pessoa jurídica.
 
 ## Processo
 
 Caso tenha interesse em trabalhar conosco, as etapas do processo serão:
 
-1. Teste em planilha Google Sheets. <a href='http://bit.ly/filtro-logistica' target='_blank'>Acessar aqui</a>.
+1. Teste em planilha Google Sheets. <a href='https://docs.google.com/spreadsheets/d/1a09cKVt1lZ6WNpqD_k5GU9xKfE2etYe0ce3PG22X4No' target='_blank'>Acessar aqui</a>.
 2. Conversa com sócios.
 
-O processo inicia-se após o envio da sua resolução do <a href='http://bit.ly/filtro-logistica' target='_blank'>teste em planilha</a> para o email: vitor@ziromoda.com.br
+O processo inicia-se após o envio da sua resolução do <a href='https://docs.google.com/spreadsheets/d/1a09cKVt1lZ6WNpqD_k5GU9xKfE2etYe0ce3PG22X4No' target='_blank'>teste em planilha</a> para o email: vitor@ziromoda.com.br
 
 **Instruções para o teste**
 

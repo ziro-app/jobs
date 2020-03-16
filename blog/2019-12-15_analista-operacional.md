@@ -1,10 +1,10 @@
 ---
-path: /logistico
-date: 2019-12-16T12:53:26.032Z
+path: /analista-operacional
+date: 2019-12-17T03:07:54.295Z
 location: 'São Paulo, SP'
 area: Operação
 enabled: true
-title: Logístico
+title: Analista Operacional
 ---
 ## Empresa
 
@@ -20,35 +20,39 @@ As pessoas que se juntarem a nós nesse estágio poderão desenvolver suas carre
 
 Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos pessoas que não tenham medo de dar e de receber feedback e valorizamos, acima de tudo, iniciativa, autonomia e olhar crítico.
 
-## Logístico
+## Analista Operacional
 
-O logístico é responsável por executar os processos de transporte manual de mercadorias. Sua atribuição é garantir que as mercadorias compradas pelos lojistas sejam corretamente retiradas dos fabricantes parceiros e despachadas para o destino final.
+O analista é responsável por garantir a correta execução dos processos logísticos da Ziro. Sua atribuição é acompanhar a operação através de planilhas e sistemas, estando atento a potenciais falhas, gargalos e emergências, atuando e oferecendo para a equipe as informações necessárias para resolvê-las.
 
 Buscamos uma pessoa que faça nossa área de logística funcionar bem e que deseje crescer junto com a empresa.
 
 ## Responsabilidades
 
-* Retirar mercadorias com carrinho de mão em fabricantes do bairro
-* Transportar as mercadorias retiradas de volta ao nosso escritório
-* Armazenar corretamente as mercadorias retiradas
-* Montar fardos de mercadorias, preparando-as para o despacho
-* Despachar mercadorias para o endereço de destino
-* Conferir notas fiscais, romaneios e dados cadastrais dos pedidos 
+* Controlar via planilha e agenda as retiradas de mercadorias executadas pela equipe de logística
+* Conferir notas fiscais, romaneios e dados cadastrais dos pedidos
+* Cotar fretes para todo o Brasil
 * Solicitar coletas e entregas com aplicativos e parceiros
+* Administrar despachos e recebimento da mercadoria no destino final
+* Rastrear envios pelos correios e transportadoras
+* Dar feedback para clientes acerca das entregas realizadas
+* Organizar estrategicamente o espaço de logística do escritório
+* Controlar despesas operacionais
+* Identificar falhas em processos e propor melhorias
+* Digitalizar e automatizar processos manuais
 * Colocar-se à disposição para ajudar em quaisquer tarefas necessárias ao crescimento da empresa
 
 ## Remuneração
 
-R$1.500,00 em contrato de pessoa jurídica.
+R$2.000,00 em contrato de pessoa jurídica.
 
 ## Processo
 
 Caso tenha interesse em trabalhar conosco, as etapas do processo serão:
 
-1. Teste em planilha Google Sheets. <a href='http://bit.ly/filtro-logistica' target='_blank'>Acessar aqui</a>.
+1. Teste em planilha Google Sheets. <a href='http://bit.ly/analista-processos' target='_blank'>Acessar aqui</a>.
 2. Conversa com sócios.
 
-O processo inicia-se após o envio da sua resolução do <a href='http://bit.ly/filtro-logistica' target='_blank'>teste em planilha</a> para o email: vitor@ziromoda.com.br
+O processo inicia-se após o envio da sua resolução do <a href='http://bit.ly/analista-processos' target='_blank'>teste em planilha</a> para o email: vitor@ziromoda.com.br
 
 **Instruções para o teste**
 
