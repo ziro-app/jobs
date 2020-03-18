@@ -1,6 +1,6 @@
 ---
 path: /analista-operacional
-date: 2020-03-17T02:07:54.295Z
+date: 2020-03-19T02:07:54.295Z
 location: 'São Paulo, SP'
 area: Operação
 enabled: true
@@ -43,7 +43,7 @@ Buscamos uma pessoa que faça nossa área de logística funcionar bem e que dese
 
 ## Remuneração
 
-R$2.000,00 em contrato de pessoa jurídica.
+R$2.500,00 em contrato de pessoa jurídica.
 
 ## Processo
 
