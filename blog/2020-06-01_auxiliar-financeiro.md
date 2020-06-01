@@ -1,5 +1,5 @@
 ---
-path: /Auxiliar Financeiro
+path: /financeiro
 date: 2020-06-01T15:31:13.265Z
 location: 'São Paulo, SP'
 area: Operação
@@ -22,9 +22,9 @@ Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos
 
 ## Auxiliar financeiro
 
-O auxiliar financeiro é responsável por organizar, controlar e executar atividades relacionadas ao recebimento de valores devidos por parte dos fabricantes parceiros. Sua atribuição é garantir o maior volume de recebimento semanal, além de manter follow-up costante e ativo com todos os fabricantes parceiros.
+O auxiliar financeiro é responsável por organizar, controlar e executar atividades relacionadas ao recebimento de valores devidos por parte dos fabricantes parceiros. Sua atribuição é garantir o maior volume de recebimento semanal, além de manter follow-up constante e ativo.
 
-Buscamos uma pessoa que faça nossa área financeira de recebíveis funcionar bem e que deseje crescer junto com a empresa.
+Buscamos uma pessoa que deseje crescer junto com a empresa e que faça nossa área financeira de recebíveis funcionar bem.
 
 ## Responsabilidades
 
