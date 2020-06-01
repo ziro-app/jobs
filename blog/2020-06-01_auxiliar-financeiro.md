@@ -22,7 +22,7 @@ Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos
 
 ## Auxiliar financeiro
 
-O auxiliar financeiro é responsável por organizar, controlar e executar atividades relacionadas ao recebimento de valores devidos por parte dos fabricantes parceiros. Sua atribuição é garantir o maior volume de recebimento semanal, além de manter follow-up constante e ativo.
+O auxiliar financeiro é responsável por organizar, controlar e executar atividades relacionadas ao recebimento de valores devidos por parte dos fabricantes parceiros. Sua atribuição é garantir o maior volume de recebimento semanal, além de manter follow-up constante e ativo de previsões e pagamentos.
 
 Buscamos uma pessoa que deseje crescer junto com a empresa e que faça nossa área financeira de recebíveis funcionar bem.
 
