@@ -24,7 +24,9 @@ Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos
 
 O auxiliar financeiro é responsável por organizar, controlar e executar atividades relacionadas ao recebimento de valores devidos por parte dos fabricantes parceiros. Sua atribuição é garantir o maior volume de recebimento semanal, além de manter follow-up constante e ativo de previsões e pagamentos.
 
-Buscamos uma pessoa que deseje crescer junto com a empresa e que faça nossa área financeira de recebíveis funcionar bem.
+Capacidade analítica, organização e senso de urgência são habilidades desejadas, além de disposição para lidar com dificuldades e barreiras características de uma mercado em transição do analógico para o digital.
+
+Buscamos uma pessoa que deseje crescer junto com a empresa, que faça nossa área financeira de recebíveis funcionar bem e que nos ajude nesse processo de transição.
 
 ## Responsabilidades
 
@@ -35,6 +37,8 @@ Buscamos uma pessoa que deseje crescer junto com a empresa e que faça nossa ár
 * Visitar presencialmente os fabricantes parceiros para receber
 * Baixar valores recebidos no sistema
 * Contabilizar recebimentos semanais
+* Depósitos bancários
+* Digitalização de documentos
 * Colocar-se à disposição para ajudar em quaisquer tarefas necessárias ao crescimento da empresa
 
 ## Remuneração
