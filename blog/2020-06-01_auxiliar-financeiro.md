@@ -1,9 +1,9 @@
 ---
 path: /financeiro
-date: 2020-06-01T15:31:13.265Z
+date: 2020-06-05T15:31:13.265Z
 location: 'São Paulo, SP'
 area: Operação
-enabled: false
+enabled: true
 title: Auxiliar Financeiro
 ---
 ## Empresa
@@ -22,9 +22,9 @@ Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos
 
 ## Auxiliar financeiro
 
-O auxiliar financeiro é responsável por organizar, controlar e executar atividades relacionadas ao recebimento de valores devidos por parte dos fabricantes parceiros. Sua atribuição é garantir o maior volume de recebimento semanal, além de manter follow-up constante e ativo de previsões e pagamentos.
+O auxiliar financeiro é responsável por organizar, controlar e executar atividades relacionadas ao recebimento de valores devidos por parte de fabricantes parceiros. Sua atribuição é garantir o maior volume de recebimento semanal, além de manter follow-up constante e ativo de previsões e pagamentos.
 
-Capacidade analítica, organização e senso de urgência são habilidades desejadas, além de disposição para lidar com dificuldades e barreiras características de uma mercado em transição do analógico para o digital.
+Capacidade analítica, organização e senso de urgência são habilidades desejadas, além de disposição para lidar com dificuldades e barreiras características de um mercado em transição do analógico para o digital.
 
 Buscamos uma pessoa que deseje crescer junto com a empresa, que faça nossa área financeira de recebíveis funcionar bem e que nos ajude nesse processo de transição.
 
@@ -43,16 +43,16 @@ Buscamos uma pessoa que deseje crescer junto com a empresa, que faça nossa áre
 
 ## Remuneração
 
-R$1.500,00 em contrato de pessoa jurídica.
+R$1.500,00 em contrato de pessoa jurídica. (inicialmente R$1.200,00 com horário reduzido devido ao COVID)
 
 ## Processo
 
 Caso tenha interesse em trabalhar conosco, as etapas do processo serão:
 
-1. Teste em planilha Google Sheets. <a href='http://bit.ly/filtro-logistica' target='_blank'>Acessar aqui</a>.
+1. Teste em planilha Google Sheets. <a href='https://bit.ly/ziro-financeiro' target='_blank'>Acessar aqui</a>.
 2. Conversa com sócios.
 
-O processo inicia-se após o envio da sua resolução do <a href='http://bit.ly/filtro-logistica' target='_blank'>teste em planilha</a> para o email: vitor@ziromoda.com.br
+O processo inicia-se após o envio da sua resolução do <a href='https://bit.ly/ziro-financeiro' target='_blank'>teste em planilha</a> para o email: vitor@ziromoda.com.br
 
 **Instruções para o teste**
 
