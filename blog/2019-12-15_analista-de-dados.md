@@ -3,7 +3,7 @@ path: /analista-dados
 date: 2020-03-24T02:14:03.743Z
 location: Remoto
 area: Produto
-enabled: true
+enabled: false
 title: Analista de Dados
 ---
 ## Empresa
