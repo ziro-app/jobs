@@ -3,7 +3,7 @@ path: /atendimento
 date: 2020-06-25T14:24:19.165Z
 location: Remoto
 area: Operação
-enabled: false
+enabled: true
 title: Atendimento e Vendas
 ---
 ## Empresa
@@ -44,7 +44,7 @@ O trabalho é **remoto** e se dá através de uma ferramenta de comunicação qu
 
 É composta por fixo de R$1.500,00 mais variável por vendas.
 
-A remuneração mensal, já incluindo o variável, pode passar de R$3.000,00.
+A remuneração mensal, já incluindo o variável, pode passar de R$2.500,00.
 
 ## Processo
 
