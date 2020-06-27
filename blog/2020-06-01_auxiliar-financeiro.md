@@ -3,7 +3,7 @@ path: /financeiro
 date: 2020-06-05T15:31:13.265Z
 location: 'São Paulo, SP'
 area: Operação
-enabled: true
+enabled: false
 title: Auxiliar Financeiro
 ---
 ## Empresa
