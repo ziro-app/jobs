@@ -3,7 +3,7 @@ path: /logistico
 date: 2020-07-01T11:53:26.032Z
 location: 'São Paulo, SP'
 area: Operação
-enabled: true
+enabled: false
 title: Logístico
 ---
 ## Empresa
