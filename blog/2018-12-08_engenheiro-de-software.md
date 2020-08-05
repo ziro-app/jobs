@@ -1,6 +1,6 @@
 ---
 path: /desenvolvimento
-date: 2020-03-23T18:17:54.630Z
+date: 2020-08-05T18:17:54.630Z
 location: Remoto
 area: Produto
 enabled: true
@@ -8,9 +8,7 @@ title: Desenvolvedor
 ---
 ## Empresa
 
-A Ziro é uma startup de intermediação de compras no atacado, com escritório localizado no Bom Retiro, SP. Conectamos lojistas de todo o país aos fabricantes de roupas do bairro.
-
-Entenda mais sobre nosso modelo de negócio <a href='https://bit.ly/2Bs6SjE' target='_blank'>acessando aqui</a>.
+A Ziro é um marketplace de moda em atacado, com escritório localizado no Bom Retiro, SP. Conectamos revendedores de roupas a fabricantes locais em todo o Brasil. Conheça mais sobre a Ziro <a href='https://ziro.com.br' target='_blank'>em nosso site</a>.
 
 ## Cultura
 
@@ -18,11 +16,13 @@ A Ziro está em seu estágio inicial. Buscamos pessoas que genuinamente queiram 
 
 As pessoas que se juntarem a nós nesse estágio poderão desenvolver suas carreiras de maneira acelerada e receber _equity_.
 
-Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos pessoas que não tenham medo de dar e de receber feedback e valorizamos, acima de tudo, iniciativa, autonomia e olhar crítico.
+Embasamos nossas decisões através de análise de dados, por isso valorizamos pessoas que se sentem confortáveis programando e manipulando dados.
 
-## Desenvolvedor
+Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos pessoas que não tenham medo de dar e de receber feedback e valorizamos, acima de tudo, autonomia e olhar crítico.
 
-O desenvolvedor atuará de maneira bastante autônoma, contribuindo para evolução e manutenção dos softwares externos e internos da Ziro.
+## Descrição do trabalho
+
+O desenvolvedor atuará de maneira bastante autônoma, contribuindo para evolução e manutenção dos softwares da Ziro.
 
 Almejamos encontrar uma pessoa com capacidade técnica para programar, mas que também possua visão de negócios e consiga tomar decisões de tecnologia alinhadas com os objetivos estratégicos da empresa.
 
@@ -50,9 +50,8 @@ O trabalho é remoto e não colocamos restrições acerca da cidade de residênc
 
 ## Remuneração
 
-Oferecemos a remuneração de R$ 4.000,00
+Contratação PJ no valor de R$4.000,00. Trabalho remoto em horário flexível.
 
-Também poderá ser ofertado _equity_.
 
 ## Processo
 
