@@ -3,7 +3,7 @@ path: /atendimento
 date: 2020-06-25T14:24:19.165Z
 location: Remoto
 area: Operação
-enabled: true
+enabled: false
 title: Atendimento e Vendas
 ---
 ## Empresa
