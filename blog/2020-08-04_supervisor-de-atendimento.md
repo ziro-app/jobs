@@ -20,6 +20,8 @@ Embasamos nossas decisões através de análise de dados, por isso valorizamos p
 
 Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos pessoas que não tenham medo de dar e de receber feedback e valorizamos, acima de tudo, autonomia e olhar crítico.
 
+<a href='https://ziro.com.br/vagas/' target='_blank'>Veja aqui</a> mais detalhes de como é trabalhar na Ziro.
+
 ## Descrição do trabalho
 
 O Supervisor de Atendimento gerencia toda nossa operação presencial, que acontece em nosso escritório no Bom Retiro.
