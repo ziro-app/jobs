@@ -45,7 +45,7 @@ Buscamos uma pessoa que faça nossa área de logística funcionar bem e que dese
 
 ## Remuneração
 
-Contratação PJ no valor de R$2.500,00. Trabalho remoto em horário flexível.
+Contratação PJ no valor de R$2.500,00. Trabalho presencial em nosso escritório no Bom Retiro, SP.
 
 ## Processo
 
