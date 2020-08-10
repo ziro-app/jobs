@@ -1,9 +1,9 @@
 ---
 path: /analista-operacional
-date: 2020-03-19T02:07:54.295Z
+date: 2020-08-12T02:07:54.295Z
 location: 'São Paulo, SP'
 area: Operação
-enabled: false
+enabled: true
 title: Analista De Processos
 ---
 ## Empresa
