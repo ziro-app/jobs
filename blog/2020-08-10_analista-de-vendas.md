@@ -47,11 +47,11 @@ Contratação PJ no valor de R$2.000,00 + variável. Trabalho remoto.
 
 Caso tenha interesse em trabalhar conosco, as etapas do processo serão:
 
-1. Teste em planilha Google Sheets. <a href='http://bit.ly/teste-assessoria' target='_blank'>Acessar aqui</a>.
+1. Teste em planilha Google Sheets. <a href='http://bit.ly/analista-processos' target='_blank'>Acessar aqui</a>.
 2. Teste venda por telefone.
 3. Conversa com sócios.
 
-O processo inicia-se após o envio da sua resolução do <a href='http://bit.ly/teste-assessoria' target='_blank'>teste em planilha</a> para o email: vitor@ziromoda.com.br
+O processo inicia-se após o envio da sua resolução do <a href='http://bit.ly/analista-processos' target='_blank'>teste em planilha</a> para o email: vitor@ziromoda.com.br
 
 **Instruções para o teste**
 
