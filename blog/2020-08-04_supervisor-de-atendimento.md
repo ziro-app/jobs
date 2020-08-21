@@ -3,7 +3,7 @@ path: /supervisor-atendimento
 date: 2020-08-05T00:25:06.146Z
 location: 'São Paulo, SP'
 area: Operação
-enabled: true
+enabled: false
 title: Supervisor de Atendimento
 ---
 ## Empresa
