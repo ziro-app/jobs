@@ -3,7 +3,7 @@ path: /vendedor-externo
 date: 2020-08-14T03:05:45.494Z
 location: 'São Paulo, SP'
 area: Produto
-enabled: true
+enabled: false
 title: Vendedor Externo
 ---
 ## Empresa
