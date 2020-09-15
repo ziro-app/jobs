@@ -3,7 +3,7 @@ path: /analista-vendas
 date: 2020-08-11T23:38:33.069Z
 location: Remoto
 area: Produto
-enabled: true
+enabled: false
 title: Analista de Vendas
 ---
 ## Empresa
