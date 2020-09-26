@@ -3,7 +3,7 @@ path: /desenvolvimento
 date: 2020-08-05T18:17:54.630Z
 location: Remoto
 area: Produto
-enabled: true
+enabled: false
 title: Desenvolvedor
 ---
 ## Empresa
