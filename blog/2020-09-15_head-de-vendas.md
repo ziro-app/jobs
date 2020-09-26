@@ -3,7 +3,7 @@ path: /head-vendas
 date: 2020-09-16T22:31:20.227Z
 location: Remoto
 area: Produto
-enabled: true
+enabled: false
 title: Head de Vendas
 ---
 ## Empresa
