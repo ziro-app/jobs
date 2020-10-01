@@ -1,9 +1,9 @@
 ---
 path: /analista-vendas
-date: 2020-08-11T23:38:33.069Z
+date: 2020-10-01T23:38:33.069Z
 location: Remoto
 area: Produto
-enabled: false
+enabled: true
 title: Analista de Vendas
 ---
 ## Empresa
@@ -32,8 +32,8 @@ Além disso, deve atuar provendo inteligência comercial para que a área de pro
 
 * Prospectar leads para os produtos da Ziro
 * Entrar em contato com leads através de telefonemas, Whatsapp e/ou email
-* Qualificar os leads prospectados
-* Contratar ferramentas de mercado para prospectar/qualificar leads
+* Realizar pré-venda e qualificar os leads prospectados
+* Enviar propostas comerciais e apresentações em pdf via email
 * Efetuar follow-up nos leads
 * Realizar o fechamento de vendas
 * Reportar diariamente, de maneira estruturada, os avanços obtidos com a prospecção e fechamento de vendas
