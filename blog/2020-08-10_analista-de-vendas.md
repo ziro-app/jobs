@@ -1,10 +1,10 @@
 ---
 path: /analista-vendas
-date: 2020-10-01T23:38:33.069Z
+date: 2020-10-05T23:38:33.069Z
 location: Remoto
 area: Produto
 enabled: true
-title: Analista de Vendas
+title: Sales Hunter
 ---
 ## Empresa
 
@@ -24,9 +24,11 @@ Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos
 
 ## Descrição do trabalho
 
-O analista de vendas é responsável por garantir o crescimento da empresa através do fechamento de novos negócios com clientes. Deve prospectar, qualificar, se relacionar e fechar acordos comerciais para uso dos produtos da Ziro.
+O Sales Hunter será responsável pela expansão comercial da Ziro a nível nacional, junto ao time de vendas. O trabalho se inicia com a qualificação dos leads que o time de BI fornece. Os leads qualificados são então salvos no sistema Hubspot para acompanhamento/evolução do funil de vendas.
 
-Além disso, deve atuar provendo inteligência comercial para que a área de produto possa melhorar as funcionalidades atuais de nossos softwares e desenvolver novas.
+Apresentar a empresa, enviar propostas e efetuar followup são atividades diárias do Sales Hunter.
+
+É fundamental para o sucesso do Sales Hunter ser "agressivo em negociações" e estar habituado ao universo de startups e com trabalho 100% remoto.
 
 ## Responsabilidades
 
@@ -36,7 +38,7 @@ Além disso, deve atuar provendo inteligência comercial para que a área de pro
 * Enviar propostas comerciais e apresentações em pdf via email
 * Efetuar follow-up nos leads
 * Realizar o fechamento de vendas
-* Reportar diariamente, de maneira estruturada, os avanços obtidos com a prospecção e fechamento de vendas
+* Reportar diariamente, de maneira estruturada via Hubspot, os avanços obtidos com a prospecção e fechamento de vendas
 * Reportar feedbacks e aprendizados durante as vendas para que a Ziro possa evoluir seus produtos e sua proposta de valor
 
 ## Remuneração
