@@ -49,22 +49,11 @@ Contratação PJ no valor de R$2.000,00 + variável. Trabalho remoto.
 
 Caso tenha interesse em trabalhar conosco, as etapas do processo serão:
 
-1. Teste em planilha Google Sheets. <a href='http://bit.ly/analista-processos' target='_blank'>Acessar aqui</a>.
-2. Teste venda por telefone.
-3. Conversa com sócios.
+1. Simulação de venda por video-chamada.
+2. Conversa com sócios.
 
-O processo inicia-se após o envio da sua resolução do <a href='http://bit.ly/analista-processos' target='_blank'>teste em planilha</a> para o email: vitor@ziromoda.com.br
+**Detalhes da simulação de venda**
 
-**Instruções para o teste**
-
-1. Crie uma conta no gmail, caso não possua.
-2. Faça uma cópia da planilha-teste em seu Google Drive (não solicite acesso). Vá em Arquivo > Fazer Cópia (essa nomenclatura pode mudar).
-3. Resolva a tarefa e gere o link de visualização via botão 'Compartilhar' no canto superior direito.
-4. Envie o link gerado no corpo do email, junto com uma breve apresentação pessoal para vitor@ziromoda.com.br.
-5. Será agendada uma video-chamada para que você explique sua resolução.
-
-**Obs 1.:** Planilhas no formato Excel (.xlsx) não serão aceitas. Converta no Google Drive antes do envio.
-
-**Obs 2.:** Gentileza não enviar email contendo somente o currículo.
-
-Caso tenha dúvidas acerca do processo, fique à vontade para enviar uma mensagem para o email acima.
+1. Você receberá para leitura um material com detalhamento do nosso produto
+2. O objetivo é realizar uma "pré-venda", tal qual descrita no material, conseguindo o máximo de informação possível do "lead"
+3. Na video-chamada, bateremos um papo e faremos a simulação. Ela será feita com um dos sócios da Ziro.
