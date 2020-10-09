@@ -54,6 +54,7 @@ Caso tenha interesse em trabalhar conosco, as etapas do processo serão:
 
 **Detalhes da simulação de venda**
 
-1. Você receberá para leitura um material com detalhamento do nosso produto
-2. O objetivo é realizar uma "pré-venda", tal qual descrita no material, conseguindo o máximo de informação possível do "lead"
+1. Você receberá para leitura um material com detalhamento do nosso produto.
+2. O objetivo é realizar uma "pré-venda", tal qual descrita no material, conseguindo o máximo de informação possível do "lead".
 3. Na video-chamada, bateremos um papo e faremos a simulação. Ela será feita com um dos sócios da Ziro.
+4. Após a simulação, você receberá um convite para o CRM Hubspot e colocará o resumo da conversa e informações extraídas do "lead" de maneira estruturada pensando em facilitar o trabalho para as pessoas do seu time num posterior contato com o "lead".
