@@ -3,7 +3,7 @@ path: /analista-vendas
 date: 2020-10-05T23:38:33.069Z
 location: Remoto
 area: Produto
-enabled: true
+enabled: false
 title: Sales Hunter
 ---
 ## Empresa
