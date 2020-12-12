@@ -3,7 +3,7 @@ path: /gerente-financeiro
 date: 2020-12-10T11:07:59.488Z
 location: 'São Paulo, SP'
 area: Operação
-enabled: false
+enabled: true
 title: Gerente Financeiro
 ---
 ## Empresa
