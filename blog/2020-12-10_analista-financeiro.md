@@ -3,7 +3,7 @@ path: /analista-financeiro
 date: 2020-12-10T14:16:44.817Z
 location: 'São Paulo, SP'
 area: Operação
-enabled: false
+enabled: true
 title: Analista Financeiro
 ---
 ## Empresa
