@@ -44,11 +44,12 @@ Somos uma empresa pequena, mas em rápido crescimento. Nosso desejo é que o Ger
 
 ## Remuneração
 
-R$2.500,00 em contrato de pessoa jurídica. Trabalho presencial em nosso escritório do Bom Retiro, SP.
+R$3.000,00 em contrato de pessoa jurídica. Trabalho presencial em nosso escritório do Bom Retiro, SP.
 
 ## Requisitos
 
 Ter vontade de empreender. Essa posição não é para você: 
+
 * Se não estiver disposto a correr riscos de carreira (resultados virão em 5 anos).
 * Se está procurando estabilidade financeira.
 * Se não quer trabalhar à noite e nem fins de semana.
