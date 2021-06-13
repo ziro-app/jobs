@@ -1,9 +1,9 @@
 ---
 path: /analista-financeiro
-date: 2020-12-10T14:16:44.817Z
+date: 2021-06-14T14:16:44.817Z
 location: 'São Paulo, SP'
 area: Operação
-enabled: false
+enabled: true
 title: Analista Financeiro
 ---
 ## Empresa
@@ -40,7 +40,7 @@ Na Ziro, prezamos muito pela fluência de dados. Nosso financeiro é completamen
 
 ## Remuneração
 
-R$1.500,00 em contrato de pessoa jurídica. Trabalho presencial em nosso escritório do Bom Retiro, SP.
+R$2.000,00 em contrato de pessoa jurídica. Trabalho presencial em nosso escritório do Bom Retiro, SP.
 
 ## Processo
 
