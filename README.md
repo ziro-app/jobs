@@ -1,1 +1,1 @@
-Dashboard of jobs for Ziro
+Dashboard of jobs
