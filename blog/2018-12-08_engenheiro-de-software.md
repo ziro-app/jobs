@@ -3,7 +3,7 @@ path: /desenvolvimento
 date: 2020-08-05T18:17:54.630Z
 location: Remoto
 area: Produto
-enabled: true
+enabled: false
 title: Desenvolvedor
 ---
 ## Empresa
@@ -19,6 +19,8 @@ As pessoas que se juntarem a nós nesse estágio poderão desenvolver suas carre
 Embasamos nossas decisões através de análise de dados, por isso valorizamos pessoas que se sentem confortáveis programando e manipulando dados.
 
 Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos pessoas que não tenham medo de dar e de receber feedback e valorizamos, acima de tudo, autonomia e olhar crítico.
+
+<a href='https://ziro.com.br/vagas/' target='_blank'>Veja aqui</a> mais detalhes de como é trabalhar na Ziro.
 
 ## Descrição do trabalho
 

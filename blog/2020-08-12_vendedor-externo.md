@@ -1,10 +1,10 @@
 ---
-path: /supervisor-atendimento
-date: 2020-08-05T00:25:06.146Z
+path: /vendedor-externo
+date: 2020-08-14T03:05:45.494Z
 location: 'São Paulo, SP'
-area: Operação
+area: Produto
 enabled: false
-title: Supervisor de Atendimento
+title: Vendedor Externo
 ---
 ## Empresa
 
@@ -24,36 +24,32 @@ Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos
 
 ## Descrição do trabalho
 
-O Supervisor de Atendimento gerencia toda nossa operação presencial, que acontece em nosso escritório no Bom Retiro.
+O vendedor externo é responsável por garantir o crescimento da empresa através do fechamento de novos negócios com clientes através de visitas presenciais em estabelecimentos comerciais do Bom Retiro. 
 
-Estabelece relacionamento com os clientes, coordena a equipe de assessoria em compras, faz a interface entre a assessoria e a logística, resolve problemas do dia-a-dia e avalia e planeja o crescimento da área como um todo.
-
-É responsável direto pelo direcionamento das ações da equipe no dia-a-dia, baseando-se nos objetivos estratégicos desenhados para a área.
+Após as visitas, deve trazer feedback estruturado para que possamos aprimorar nosso produto, proposta de valor e discurso de venda.
 
 ## Responsabilidades
 
-* Discutir e definir os objetivos estratégicos da operação presencial junto com os sócios.
-* Planejar e executar as ações necessárias para o cumprimento dos objetivos.
-* Avaliar os resultados e KPIs da área.
-* Coordenar as ações diárias da equipe.
-* Resolver problemas de comunicação entre as áreas no dia-a-dia.
-* Fornecer as ferramentas necessárias para o sucesso da equipe.
-* Desenvolver os processos necessários para o sucesso da área.
-* Estabelecer relacionamento de longo prazo com os clientes e trazer seus feedbacks para análise interna.
+* Visitar presencialmente leads qualificados no bairro do Bom Retiro
+* Apresentar, durante a visita, nosso produto e proposta de valor, utilizando técnicas de venda para fechar negócios
+* Estabelecer relacionamentos de longo prazo, mesmo que o fechamento da venda não seja possível no curto prazo
+* Efetuar follow-up (novas visitas) para evoluir relacionamento com leads
+* Reportar diariamente, de maneira estruturada, os avanços obtidos com o fechamento de vendas
+* Reportar feedbacks e aprendizados durante as vendas para que a Ziro possa evoluir seus produtos e sua proposta de valor
 
 ## Remuneração
 
-Contratação PJ no valor de R$3.000,00. Trabalho presencial em nosso escritório no Bom Retiro, SP.
-
+Contratação PJ no valor de R$1.500,00 + variável. Trabalho presencial em nosso escritório do Bom Retiro. Visitas são presenciais, realizadas a pé, em estabelecimentos dentro do próprio bairro.
 
 ## Processo
 
 Caso tenha interesse em trabalhar conosco, as etapas do processo serão:
 
-1. Teste em planilha Google Sheets. <a href='http://bit.ly/teste-business' target='_blank'>Acessar aqui</a>.
-2. Conversa com sócios.
+1. Teste em planilha Google Sheets. <a href='http://bit.ly/teste-assessoria' target='_blank'>Acessar aqui</a>.
+2. Teste venda por telefone.
+3. Conversa com sócios.
 
-O processo inicia-se após o envio da sua resolução do <a href='http://bit.ly/teste-business' target='_blank'>teste em planilha</a> para o email: vitor@ziromoda.com.br
+O processo inicia-se após o envio da sua resolução do <a href='http://bit.ly/teste-assessoria' target='_blank'>teste em planilha</a> para o email: vitor@ziromoda.com.br
 
 **Instruções para o teste**
 
@@ -65,8 +61,6 @@ O processo inicia-se após o envio da sua resolução do <a href='http://bit.ly/
 
 **Obs 1.:** Planilhas no formato Excel (.xlsx) não serão aceitas. Converta no Google Drive antes do envio.
 
-**Obs 2.:** Gentileza não enviar email contendo somente o currículo. Não serão respondidos.
-
-No teste, mais do que a resposta final em si, será considerada sua resiliência e capacidade de aprendizado.
+**Obs 2.:** Gentileza não enviar email contendo somente o currículo.
 
 Caso tenha dúvidas acerca do processo, fique à vontade para enviar uma mensagem para o email acima.

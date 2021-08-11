@@ -1,16 +1,14 @@
 ---
 path: /analista-operacional
-date: 2020-03-19T02:07:54.295Z
+date: 2020-08-12T02:07:54.295Z
 location: 'São Paulo, SP'
 area: Operação
 enabled: false
-title: Analista De Operações
+title: Analista de Processos
 ---
 ## Empresa
 
-A Ziro é uma startup de intermediação de compras no atacado, com escritório localizado no Bom Retiro, SP. Conectamos lojistas de todo o país aos fabricantes de roupas da região.
-
-Entenda mais sobre nosso modelo de negócio <a href='https://bit.ly/2Bs6SjE' target='_blank'>acessando aqui</a>.
+A Ziro é um marketplace de moda em atacado, com escritório localizado no Bom Retiro, SP. Conectamos revendedores de roupas a fabricantes locais em todo o Brasil. Conheça mais sobre a Ziro <a href='https://ziro.com.br' target='_blank'>em nosso site</a>.
 
 ## Cultura
 
@@ -18,17 +16,21 @@ A Ziro está em seu estágio inicial. Buscamos pessoas que genuinamente queiram 
 
 As pessoas que se juntarem a nós nesse estágio poderão desenvolver suas carreiras de maneira acelerada e receber _equity_.
 
-Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos pessoas que não tenham medo de dar e de receber feedback e valorizamos, acima de tudo, iniciativa, autonomia e olhar crítico.
+Embasamos nossas decisões através de análise de dados, por isso valorizamos pessoas que se sentem confortáveis programando e manipulando dados.
 
-## Analista de Operações
+Somos muito transparentes em nossa comunicação e em nosso financeiro. Queremos pessoas que não tenham medo de dar e de receber feedback e valorizamos, acima de tudo, autonomia e olhar crítico.
 
-O analista é responsável por garantir a correta execução dos processos logísticos da Ziro. Sua atribuição é acompanhar a operação através de planilhas e sistemas, estando atento a potenciais falhas, gargalos e emergências, atuando e oferecendo para a equipe as informações necessárias para resolvê-las.
+<a href='https://ziro.com.br/vagas/' target='_blank'>Veja aqui</a> mais detalhes de como é trabalhar na Ziro.
+
+## Descrição do trabalho
+
+O analista de processos é responsável por garantir a correta execução dos processos logísticos da Ziro. Sua atribuição é acompanhar a operação através de planilhas e sistemas, estando atento a potenciais falhas, gargalos e emergências, atuando e oferecendo para a equipe as informações necessárias para resolvê-las.
 
 Buscamos uma pessoa que faça nossa área de logística funcionar bem e que deseje crescer junto com a empresa.
 
 ## Responsabilidades
 
-* Controlar via planilha e agenda as retiradas de mercadorias executadas pela equipe de logística
+* Controlar via planilha as retiradas de mercadorias executadas pela equipe de logística
 * Conferir notas fiscais, romaneios e dados cadastrais dos pedidos
 * Cotar fretes para todo o Brasil
 * Solicitar coletas e entregas com aplicativos e parceiros
@@ -43,16 +45,16 @@ Buscamos uma pessoa que faça nossa área de logística funcionar bem e que dese
 
 ## Remuneração
 
-R$2.500,00 em contrato de pessoa jurídica.
+Contratação PJ no valor de R$2.500,00. Trabalho presencial em nosso escritório no Bom Retiro, SP.
 
 ## Processo
 
 Caso tenha interesse em trabalhar conosco, as etapas do processo serão:
 
-1. Teste em planilha Google Sheets. <a href='http://bit.ly/analista-processos' target='_blank'>Acessar aqui</a>.
+1. Teste em planilha Google Sheets. <a href='https://bit.ly/analista-processos' target='_blank'>Acessar aqui</a>.
 2. Conversa com sócios.
 
-O processo inicia-se após o envio da sua resolução do <a href='http://bit.ly/analista-processos' target='_blank'>teste em planilha</a> para o email: vitor@ziromoda.com.br
+O processo inicia-se após o envio da sua resolução do <a href='https://bit.ly/analista-processos' target='_blank'>teste em planilha</a> para o email: vitor@ziromoda.com.br
 
 **Instruções para o teste**
 
